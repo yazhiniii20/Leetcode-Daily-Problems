@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
+| [1205-defanging-an-ip-address](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Counting
 |  |
