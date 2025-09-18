@@ -1,23 +1,16 @@
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
         int n = nums.length;
-        int[] temp = new int[n];
-        for(int i=0;i<n;i++){
-            temp[i] = howManySmaller(nums[i],nums);
-        }
-         return temp;
-    }
-    private static int howManySmaller(int num,int[] nums){
-        int small=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i] == num){
-                continue;
-            }else{
-                if(nums[i] < num){
-                   small++;
-                }
-            }
-        }
-        return small;
+         int[] sortedarr = nums.clone();
+         Arrays.sort(sortedarr);
+         HashMap<Integer,Integer> map = new HashMap<>();
+         for(int i=0;i<n;i++){
+           map.putIfAbsent(sortedarr[i],i);
+         }
+         int[] res = new int[n];
+         for(int i=0;i<n;i++){
+            res[i] = map.get(nums[i]);
+         }
+         return res;
     }
 }
