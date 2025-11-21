@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1635-number-of-good-pairs) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1791-richest-customer-wealth](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1813-maximum-erasure-value) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1791-richest-customer-wealth) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
