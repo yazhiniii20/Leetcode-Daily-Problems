@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0326-power-of-three) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0258-add-digits) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
