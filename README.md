@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0326-power-of-three) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
