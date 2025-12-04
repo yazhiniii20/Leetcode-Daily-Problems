@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1635-number-of-good-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -144,9 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
