@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0383-ransom-note](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0202-happy-number) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Number Theory
