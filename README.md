@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sorting
