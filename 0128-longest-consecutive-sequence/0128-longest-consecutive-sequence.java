@@ -4,19 +4,22 @@ class Solution {
         if(nums.length == 0){
             return 0;
         }
-        Arrays.sort(nums);
+        HashSet<Integer> set = new HashSet<>();
+        for(int i=0;i<n;i++){
+            set.add(nums[i]);
+        }
         int longest = 1;
         int count = 0;
-        int lastSmaller = Integer.MIN_VALUE;
-        for(int i=0;i<n;i++){
-            if(nums[i]-1 == lastSmaller){
+        for(int num : set){
+          if(!set.contains(num-1)){
+            count = 1;
+            int x = num;
+            while(set.contains(x+1)){
                 count++;
-                lastSmaller = nums[i];
-            }else if(lastSmaller != nums[i]){
-                lastSmaller = nums[i];
-                count = 1;
+                x++;
             }
             longest = Math.max(longest,count);
+          }
         }
         return longest;
     }
