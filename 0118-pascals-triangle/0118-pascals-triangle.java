@@ -4,19 +4,18 @@ class Solution {
         List<Integer> ans;
         for(int i=1;i<=numRows;i++){
             ans = new ArrayList<>();
-            for(int j=1;j<=i;j++){
-                ans.add(findNcr(ans,i-1,j-1));
-            }
+            findNcr(ans,i);
             res.add(ans);
         }
         return res;
     }
-    static int findNcr(List<Integer> ans,int row,int col){
+    static void findNcr(List<Integer> ans,int row){
         int a = 1;
-        for(int i=0;i<col;i++){
-            a = a*(row-i);
-            a = a/(i+1);
+        ans.add(a);
+        for(int col=1;col<row;col++){
+            a = a*(row-col);
+            a = a/(col);
+            ans.add(a);
         }
-        return a;
     }
 }
