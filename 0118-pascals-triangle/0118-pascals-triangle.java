@@ -1,15 +1,13 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> res = new ArrayList<>();
-        List<Integer> ans;
         for(int i=1;i<=numRows;i++){
-            ans = new ArrayList<>();
-            findNcr(ans,i);
-            res.add(ans);
+            res.add(findNcr(i));
         }
         return res;
     }
-    static void findNcr(List<Integer> ans,int row){
+    static  List<Integer> findNcr(int row){
+        List<Integer> ans = new ArrayList<>();
         int a = 1;
         ans.add(a);
         for(int col=1;col<row;col++){
@@ -17,5 +15,6 @@ class Solution {
             a = a/(col);
             ans.add(a);
         }
+        return ans;
     }
 }
