@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0875-koko-eating-bananas) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0875-koko-eating-bananas) |
 | [3790-fruits-into-baskets-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
