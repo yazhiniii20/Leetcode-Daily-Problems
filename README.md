@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -206,12 +208,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Number Theory
