@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2643-row-with-maximum-ones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2643-row-with-maximum-ones) |
 | [3046-split-the-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3046-split-the-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0867-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1791-richest-customer-wealth) |
+| [2643-row-with-maximum-ones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
