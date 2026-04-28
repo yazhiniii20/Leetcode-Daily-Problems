@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0782-jewels-and-stones) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0796-rotate-string) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1635-number-of-good-pairs) |
 | [3046-split-the-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3046-split-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -321,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
