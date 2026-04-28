@@ -5,18 +5,23 @@ class Solution {
         if(num < 0){
             num = -1*num;
         }
-        while(num > 0){
-          if(num%2 == 0){
-            x = x*x;
-            num = num/2;
-          }else{
-            ans = ans*x;
-            num = num-1;
-          }
-        }
+        ans = computePow(x,num,ans);
         if(n<0){
             ans = (double)1.0/ans;
         }
         return ans;
+    }
+    static double computePow(double x,long n,double ans){
+        if(n <= 0){
+            return ans;
+        }
+        if(n%2 == 0){
+            x *= x;
+            n /= 2;
+        }else{
+            ans *= x;
+            n = n-1;
+        }
+        return computePow(x,n,ans);
     }
 }
