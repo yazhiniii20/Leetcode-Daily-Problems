@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0263-ugly-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
