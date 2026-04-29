@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0258-add-digits) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0202-happy-number) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0151-reverse-words-in-a-string) |
