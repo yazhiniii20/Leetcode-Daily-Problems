@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0050-powx-n) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0038-count-and-say) |
