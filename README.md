@@ -430,4 +430,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0022-generate-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
