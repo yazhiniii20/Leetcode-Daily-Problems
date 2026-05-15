@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0645-set-mismatch) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0782-jewels-and-stones) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0904-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1813-maximum-erasure-value) |
 ## Binary Search
