@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0283-move-zeroes) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0229-majority-element-ii) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
