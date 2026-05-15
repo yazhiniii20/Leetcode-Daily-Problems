@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1635-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0782-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1635-number-of-good-pairs) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1813-maximum-erasure-value) |
 ## Binary Search
 |  |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sorting
