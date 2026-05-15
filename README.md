@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0782-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0904-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1635-number-of-good-pairs) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0904-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1813-maximum-erasure-value) |
 ## Binary Search
 |  |
