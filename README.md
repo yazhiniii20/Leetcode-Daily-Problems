@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0796-rotate-string) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Number Theory
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
