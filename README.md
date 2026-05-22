@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0907-sum-of-subarray-minimums) |
