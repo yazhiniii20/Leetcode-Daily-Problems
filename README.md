@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0118-pascals-triangle) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0867-transpose-matrix) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0396-rotate-function) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0503-next-greater-element-ii) |
