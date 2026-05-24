@@ -1,10 +1,10 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
         int n = nums.length;
-        int low = nums[0];
+        int low = 0;
         int high = 0;
         for(int i=0;i<n;i++){
-            //low = Math.max(low,nums[i]);
+            low = Math.max(low,nums[i]);
             high += nums[i];
         }
         int ans = -1;
