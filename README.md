@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0012-integer-to-roman) |
@@ -33,8 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0090-subsets-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0191-number-of-1-bits) |
@@ -46,8 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0206-reverse-linked-list) |
@@ -58,8 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1922-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0412-fizz-buzz) |
@@ -71,8 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0061-rotate-list) |
@@ -82,8 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
@@ -116,8 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3046-split-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0012-integer-to-roman) |
@@ -152,8 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0383-ransom-note) |
@@ -163,8 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3046-split-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0014-longest-common-prefix) |
@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0075-sort-colors) |
@@ -251,8 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -260,8 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1813-maximum-erasure-value) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -287,18 +288,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3790-fruits-into-baskets-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0018-4sum) |
@@ -319,8 +320,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0455-assign-cookies) |
@@ -331,8 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0238-product-of-array-except-self](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -341,8 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0056-merge-intervals) |
@@ -359,12 +361,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -377,11 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -393,16 +396,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0258-add-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0258-add-digits) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0509-fibonacci-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
@@ -410,21 +413,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0493-reverse-pairs) |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0493-reverse-pairs) |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0148-sort-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0493-reverse-pairs) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0085-maximal-rectangle) |
@@ -441,35 +444,35 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0014-longest-common-prefix) |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0796-rotate-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0039-combination-sum) |
@@ -479,32 +482,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
 | [0733-flood-fill](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0733-flood-fill) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0733-flood-fill](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0994-rotting-oranges) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0085-maximal-rectangle) |
