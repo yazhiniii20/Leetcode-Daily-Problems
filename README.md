@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0410-split-array-largest-sum) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0118-pascals-triangle) |
