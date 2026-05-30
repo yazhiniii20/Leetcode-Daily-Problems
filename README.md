@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1813-maximum-erasure-value) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1901-find-a-peak-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
