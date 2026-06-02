@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
