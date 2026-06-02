@@ -3,7 +3,19 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
         int[][] dp = new int[m][n];
-        return minimizePath(m-1,n-1,grid,dp);
+        dp[0][0] = grid[0][0];
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(i == 0 && j == 0) continue;
+                int up = Integer.MAX_VALUE;
+                int left = Integer.MAX_VALUE;
+                if(i > 0 ) up = grid[i][j]+ dp[i-1][j];
+                if(j > 0) left = grid[i][j] + dp[i][j-1];
+                dp[i][j] = Math.min(up,left);
+            }
+        }
+        return dp[m-1][n-1];
+        //return minimizePath(m-1,n-1,grid,dp);
     }
     static int minimizePath(int i,int j,int[][] grid,int[][] dp){
         if(i < 0 || j < 0){
