@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
+| [0547-number-of-provinces](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0994-rotting-oranges) |
 ## Monotonic Stack
@@ -554,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0062-unique-paths) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
