@@ -2,10 +2,19 @@ class Solution {
     public int change(int amount, int[] coins) {
         int n = coins.length;
         int[][] dp = new int[n][amount+1];
-        for(int[] a: dp){
-            Arrays.fill(a,-1);
+        for(int t=0;t<=amount;t++){
+            dp[0][t] = (t%coins[0] == 0)?1:0;
         }
-        return totalWays(n-1,amount,coins,dp);
+        for(int index=1;index<n;index++){
+            for(int target=0;target<=amount;target++){
+                int notTake = dp[index-1][target];
+                int take = 0;
+                if(coins[index] <= target) take = dp[index][target-coins[index]];
+                dp[index][target] = take+notTake;
+            }
+        }
+        return dp[n-1][amount];
+        //return totalWays(n-1,amount,coins,dp);
     }
     static int totalWays(int index,int target,int[] coins,int[][] dp){
         if(index == 0){
