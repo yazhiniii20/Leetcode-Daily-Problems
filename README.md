@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0205-isomorphic-strings) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
