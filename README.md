@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0231-power-of-two) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0115-distinct-subsequences) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0402-remove-k-digits) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0062-unique-paths) |
