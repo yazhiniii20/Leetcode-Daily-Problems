@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0169-majority-element) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0205-isomorphic-strings) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0322-coin-change) |
