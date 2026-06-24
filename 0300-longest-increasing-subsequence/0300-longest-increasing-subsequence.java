@@ -1,8 +1,18 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
-        Integer[][] dp = new Integer[n][n+1];
-        return lenLIS(0,-1,nums,dp);
+        int[][] dp = new int[n+1][n+1];
+        for(int index = n-1; index >= 0; index--){
+            for(int prevIndex = index-1 ;prevIndex >= -1; prevIndex--){
+                int len = 0 + dp[index+1][prevIndex+1];
+                if(prevIndex == -1 || nums[index] > nums[prevIndex]){
+                  len = Math.max(len , 1 + dp[index+1][index+1]);
+                }
+               dp[index][prevIndex+1] = len;    
+            }
+        }
+        return dp[0][0];
+        //return lenLIS(0,-1,nums,dp);
     }
     static int lenLIS(int index,int prevIndex,int[] nums,Integer[][] dp){
     if(index == nums.length) return 0;
