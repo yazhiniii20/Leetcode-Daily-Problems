@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0645-set-mismatch) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0733-flood-fill) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3790-fruits-into-baskets-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-sum-of-subarray-minimums](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Merge Sort
 |  |
 | ------- |
