@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1048-longest-string-chain) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
+| [1048-longest-string-chain](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1048-longest-string-chain) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0853-car-fleet) |
+| [1048-longest-string-chain](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1048-longest-string-chain) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2126-destroying-asteroids](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2126-destroying-asteroids) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -481,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-sum-of-subarray-minimums](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1463-cherry-pickup-ii) |
