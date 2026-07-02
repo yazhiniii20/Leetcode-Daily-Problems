@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1048-longest-string-chain](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1092-shortest-common-supersequence) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -668,9 +672,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
