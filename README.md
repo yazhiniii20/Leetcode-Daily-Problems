@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0782-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1021-remove-outermost-parentheses) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0853-car-fleet) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0721-accounts-merge) |
 | [0853-car-fleet](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0853-car-fleet) |
 | [1048-longest-string-chain](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1048-longest-string-chain) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1020-number-of-enclaves) |
@@ -626,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -652,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
