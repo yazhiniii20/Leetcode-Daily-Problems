@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1635-number-of-good-pairs) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1331-rank-transform-of-an-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0721-accounts-merge) |
 | [0853-car-fleet](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0853-car-fleet) |
 | [1048-longest-string-chain](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1048-longest-string-chain) |
+| [1331-rank-transform-of-an-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2126-destroying-asteroids](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2126-destroying-asteroids) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
