@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -633,11 +634,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0210-course-schedule-ii) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
