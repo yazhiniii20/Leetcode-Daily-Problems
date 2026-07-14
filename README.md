@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1922-count-good-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2643-row-with-maximum-ones) |
 | [3046-split-the-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3046-split-the-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -525,10 +527,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0258-add-digits) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
 | ------- |
