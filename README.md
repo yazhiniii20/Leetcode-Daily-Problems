@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0412-fizz-buzz) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0257-binary-tree-paths](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0733-flood-fill) |
@@ -676,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0257-binary-tree-paths](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
