@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1635-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1813-maximum-erasure-value) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1901-find-a-peak-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1901-find-a-peak-element-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
