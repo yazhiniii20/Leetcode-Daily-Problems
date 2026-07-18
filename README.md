@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0342-power-of-four) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
