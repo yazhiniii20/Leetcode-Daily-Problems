@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1048-longest-string-chain) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Combinatorics
 |  |
