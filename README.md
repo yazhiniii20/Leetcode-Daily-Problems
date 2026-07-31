@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1813-maximum-erasure-value) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3046-split-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3838-weighted-word-mapping) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1635-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3046-split-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2126-destroying-asteroids](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2126-destroying-asteroids) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
