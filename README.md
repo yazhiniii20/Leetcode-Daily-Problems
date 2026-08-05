@@ -738,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3310-remove-methods-from-project](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3310-remove-methods-from-project](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3310-remove-methods-from-project) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3310-remove-methods-from-project](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
