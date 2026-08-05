@@ -709,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
