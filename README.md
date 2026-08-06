@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Game Theory
 |  |
 | ------- |
