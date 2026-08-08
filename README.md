@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1048-longest-string-chain) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
@@ -773,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -811,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Combinatorics
