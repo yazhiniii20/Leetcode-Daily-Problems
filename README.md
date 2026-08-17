@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1510-stone-game-iv](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1563-stone-game-v) |
 | [1635-number-of-good-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1635-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1922-count-good-numbers) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1563-stone-game-v) |
 | [1603-running-sum-of-1d-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1635-number-of-good-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1635-number-of-good-pairs) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1563-stone-game-v) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -885,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1563-stone-game-v) |
 ## Binary Lifting
 |  |
 | ------- |
