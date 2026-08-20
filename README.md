@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3838-weighted-word-mapping) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3046-split-the-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
