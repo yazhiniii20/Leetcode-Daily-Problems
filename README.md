@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Game Theory
 |  |
 | ------- |
