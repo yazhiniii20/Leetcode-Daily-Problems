@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3046-split-the-array) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -897,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Game Theory
 |  |
