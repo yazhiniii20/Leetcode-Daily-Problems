@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/yazhiniii20/Leetcode-Daily-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
