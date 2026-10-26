@@ -11,7 +11,7 @@ class Solution {
               q.offer(i);
               while(!q.isEmpty()){
                 int node = q.poll();
-                for(int j=0;j<isConnected[node].length;j++){
+                for(int j=1;j<isConnected[node].length;j++){
                     if(!visited[j] && isConnected[node][j] == 1){
                         visited[j] = true;
                         q.offer(j);
